@@ -1,0 +1,6 @@
+{
+  "name": "CurrencyX",
+  "description": "Real-time Currency Converter with offline rates, historical charts, favorites, and conversion history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
